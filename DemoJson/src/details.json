@@ -1,0 +1,23 @@
+{
+  "empId": 100,
+  "empName": "David",
+  "permanent": false,
+  "address": {
+    "street": "BTM 1st Stage",
+    "city": "Bangalore",
+    "zipcode": 560100
+  },
+  "phoneNumbers": [
+    123456,
+    987654
+  ],
+  "role": "Manager",
+  "cities": [
+    "Los Angeles",
+    "New York"
+  ],
+  "properties": {
+    "age": "28",
+    "salary": "1000"
+  }
+}
